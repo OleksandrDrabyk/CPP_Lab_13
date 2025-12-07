@@ -1,0 +1,22 @@
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\bin\Debug\lab 12.exe.config
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\bin\Debug\lab 12.exe
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\bin\Debug\lab 12.pdb
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\obj\Debug\lab 12.csproj.AssemblyReference.cache
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\obj\Debug\lab_12.Form1.resources
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\obj\Debug\lab_12.FServ.resources
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\obj\Debug\lab_12.Properties.Resources.resources
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\obj\Debug\lab 12.csproj.GenerateResource.cache
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\obj\Debug\lab 12.csproj.CoreCompileInputs.cache
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\obj\Debug\lab 12.exe
+C:\Users\taras\OneDrive\Desktop\КПП\лаби\lab 12 dod\lab 12\obj\Debug\lab 12.pdb
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\bin\Debug\lab 12.exe.config
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\bin\Debug\lab 12.exe
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\bin\Debug\lab 12.pdb
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\obj\Debug\lab 12.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\obj\Debug\lab_12.Form1.resources
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\obj\Debug\lab_12.FServ.resources
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\obj\Debug\lab_12.Properties.Resources.resources
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\obj\Debug\lab 12.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\obj\Debug\lab 12.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\obj\Debug\lab 12.exe
+C:\Users\Alex\Desktop\lab 13 dod\lab 13 dod\lab 12\obj\Debug\lab 12.pdb
